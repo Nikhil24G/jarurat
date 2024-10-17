@@ -125,7 +125,6 @@ Make sure you have the following installed on your machine:
 
 4. **Send the requests** and view the responses in Postman.
 
-```
 
 ### Summary of Sections
 - **Prerequisites:** Lists required software and services.
