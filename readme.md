@@ -1,4 +1,3 @@
-```markdown
 # Healthcare Services API
 
 This is a simple API for managing healthcare services using Node.js, Express, and MongoDB Atlas. It allows users to create, retrieve, update, and delete services.
